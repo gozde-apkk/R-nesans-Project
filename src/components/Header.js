@@ -1,7 +1,7 @@
 import React, {  useState } from 'react'
 import { useDispatch } from "react-redux";
 import {number} from "../redux/countSlice"
-
+import "../style/header.css"
 const Header = () => {
 
   
