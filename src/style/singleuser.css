@@ -1,0 +1,23 @@
+.single{
+    width: 450px;
+    display: flex;
+    gap: 1rem;
+    background: #7a7070;
+    border-radius: 20px;
+    justify-content: center;
+    align-content: stretch;
+    align-items: center;
+}
+
+
+img{
+    border-radius: 150px;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    /* align-content: space-around; */
+    /* justify-content: flex-end; */
+    align-items: flex-start;
+}

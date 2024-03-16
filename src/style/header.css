@@ -1,0 +1,11 @@
+
+
+
+.header{
+    background: #3b3939;
+    color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
